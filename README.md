@@ -1,2 +1,2 @@
 # codewars-kata
-Various kata from Codewars solved by myself
+This repository contains various kata (tasks, exercises) from Codewars solved by myself, sorted by difficulty level (kyu).
